@@ -1,0 +1,9 @@
+{
+  "porto_origem": "Porto Alfa",
+  "navios": [
+    {"id": "S1-FAROL", "destino": "Porto Norte", "distancia_nm": 700, "velocidade_kn": 14, "em_tempestade": false, "combustivel_t": 30, "reserva_t": 33},
+    {"id": "S2-MARE", "destino": "Porto Leste", "distancia_nm": 760, "velocidade_kn": 16, "em_tempestade": true, "combustivel_t": 100, "reserva_t": 42},
+    {"id": "S3-CORAL", "destino": "Porto Sul", "distancia_nm": 680, "velocidade_kn": 12, "em_tempestade": false, "combustivel_t": 115, "reserva_t": 51},
+    {"id": "S4-ATLAS", "destino": "Porto Oeste", "distancia_nm": 820, "velocidade_kn": 14, "em_tempestade": true, "combustivel_t": 145, "reserva_t": 60}
+  ]
+}

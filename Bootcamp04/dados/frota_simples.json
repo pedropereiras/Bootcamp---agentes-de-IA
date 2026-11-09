@@ -1,0 +1,9 @@
+{
+  "porto_origem": "Porto Alfa",
+  "navios": [
+    {"id": "S1-FAROL", "destino": "Porto Norte", "distancia_nm": 700, "velocidade_kn": 14},
+    {"id": "S2-MARE", "destino": "Porto Leste", "distancia_nm": 760, "velocidade_kn": 10},
+    {"id": "S3-CORAL", "destino": "Porto Sul", "distancia_nm": 680, "velocidade_kn": 12},
+    {"id": "S4-ATLAS", "destino": "Porto Oeste", "distancia_nm": 820, "velocidade_kn": 14}
+  ]
+}
