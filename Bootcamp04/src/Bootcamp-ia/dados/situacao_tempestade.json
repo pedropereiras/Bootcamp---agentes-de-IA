@@ -1,0 +1,7 @@
+{
+  "navios": [
+    { "id": "S1-FAROL", "rota": "direta", "velocidade_alvo_kn": 14, "em_tempestade": true, "state_version": 1 },
+    { "id": "S2-MARE", "rota": "protegida", "velocidade_alvo_kn": 16, "em_tempestade": true, "state_version": 1 },
+    { "id": "S3-CORAL", "rota": "direta", "velocidade_alvo_kn": 12, "em_tempestade": false, "state_version": 1 }
+  ]
+}
